@@ -21,5 +21,10 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "bootstrap": "^4.1.3",
+    "jsonp": "^0.2.1",
+    "prop-types": "^15.6.2"
+  }
 }
