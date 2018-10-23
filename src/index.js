@@ -4,3 +4,4 @@ import 'bootstrap/dist/css/bootstrap.css';
 import Suggest from './components/Suggest';
 
 render(<Suggest/>, window.app);
+console.log('hh');
